@@ -1,4 +1,4 @@
-## [Contact](https://docs.google.com/a/civics.com/spreadsheet/viewform?formkey=dEJqM0JTNENrZEtvNjJIVFItTzNiUkE6MQ#gid=0) Dazza Greenwood
+## Dazza's Contact [Form](https://docs.google.com/a/civics.com/spreadsheet/viewform?formkey=dEJqM0JTNENrZEtvNjJIVFItTzNiUkE6MQ#gid=0) and [Ticket](https://github.com/DazzaGreenwood/Interface/issues/new)
 ## Consulting: [CIVICS.com](http://CIVICS.com)
 ## Web: [DazzaGreenwood.com](http://DazzaGreenwood.com)
 ## MIT: [https://law.MIT.edu](http://law.MIT.edu)
