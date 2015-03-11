@@ -1,4 +1,4 @@
-# (Daniel) "Dazza" Greenwood, JD (one paragraph bio)
+# (Daniel) "Dazza" Greenwood, JD 
 
 Dazza Greenwood is an entrepreneur, innovator and national thought on design and deployment of large scale, trusted distributed systems.  Dazza heads the digital systems design firm CIVICS.com, which he founded in 1996.  At MIT,  Dazza lecturers and conducts R&D on big data, digital identity federation, personal data sharing and is developing the field of computational law and jurimetrics through law.MIT.edu at the MIT Media Lab and Connection Science. Privately, Dazza provides professional consultancy services to industry, government and civic organizations, including fortune 50 companies, national governments, and marketplaces through CIVICS.com.  Dazza has catalyzed or led numerous industry, governmental and public-private initiatives aimed at developing innovative legal solutions, technical standards and business models.  
 
