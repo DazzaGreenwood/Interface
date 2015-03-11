@@ -15,3 +15,14 @@ Federally, Dazza has testified several times on eCommerce before the US House an
 Dazza was elected as Vice Chair of the Identity Ecosystem Steering Group’s Plenary, which is developing a framework for federated identity and privacy at the international level, implementing NSTIC. Dazza Chairs the Forum on Law of Identity and Personal Data of the ID Commons. Dazza chaired the eContracts Committee of OASIS/LegalXML, which approved and published the Technical Committee Specification for eContracts in 2007.
 
 Dazza served as an arbitrator under the Internet Corporation for Assigned Names and Numbers (ICANN), where he arbitrated Internet domain name and trademark disputes. Mr. Greenwood has successfully mediated several domain name and other disputes. Mr Greenwood created legal processes for online mediation used by eBay and other online dispute resolution providers, crafted the first crowd-sourced dispute resolution process and vice chaired of the OASIS Online Dispute Resolution technical specifications committee.
+
+**Other Site and Contact Information**
+
+* Dazza's Contact [Form](https://docs.google.com/a/civics.com/spreadsheet/viewform?formkey=dEJqM0JTNENrZEtvNjJIVFItTzNiUkE6MQ#gid=0) and [Ticket](https://github.com/DazzaGreenwood/Interface/issues/new)
+* Consulting: [CIVICS.com](http://CIVICS.com)
+* Web: [DazzaGreenwood.com](http://DazzaGreenwood.com)
+* MIT: [https://law.MIT.edu](http://law.MIT.edu)
+* Twitter: [@DazzaGreenwood](http://Twitter.com/DazzaGreenwood)
+* Google+: [google.com/+DazzaGreenwood](http://google.com/+DazzaGreenwood)
+* LinkedIn: [linkedin.com/in/DazzaGreenwood](http://linkedin.com/in/DazzaGreenwood)
+
